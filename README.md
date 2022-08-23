@@ -1,4 +1,4 @@
 # jogo-da-velha
 
-✔ Projeto finalizado!
+✔ Projeto finalizado! <br>
 ✔ Desenvolvido durante o curso de Javascript do professor Matheus Battisti!
